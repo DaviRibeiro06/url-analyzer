@@ -12,7 +12,7 @@ This project provides a basic utility for analyzing URLs to determine whether th
 - **Non-Secure URL Detection**: Identifies URLs that start with `http://` as non-secure.
 - **Invalid URL Detection**: Flags URLs that do not start with `http://` or `https://` as invalid.
 
-## Installation
+
 ## Languages Used
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -20,6 +20,7 @@ This project provides a basic utility for analyzing URLs to determine whether th
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## Installation
 Clone this repository to your local machine using:
 
 ```bash
